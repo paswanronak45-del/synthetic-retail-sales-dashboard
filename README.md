@@ -42,6 +42,8 @@ This project demonstrates practical skills in data visualization, KPI tracking, 
 
 Here is a preview of the **Synthetic Retail Sales Dashboard**, showing key sales metrics, profitability, and interactive visualizations.
 
+https://bright-pie-a88ab2.netlify.app
+
 Dashboard Overview
 <img width="1357" height="646" alt="dashboard-details png" src="https://github.com/user-attachments/assets/cc9fdfac-7af8-47aa-9b49-6cf7f36d8804" />
 
